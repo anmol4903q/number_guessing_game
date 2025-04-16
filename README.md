@@ -35,5 +35,5 @@ This was **one of Angela Yu's 100 Days of Code challenges**.
 2. Clone this repo or download the `.py` file.
 3. Run it in your terminal:
 ```bash
-python guess_the_number.py
+python num_guessing_challenge.py
 
